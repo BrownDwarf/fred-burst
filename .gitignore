@@ -1,6 +1,15 @@
 data/
 *.pdf
 
+# Ignore LaTeX style files
+document/apj.bst
+document/emulateapj-rtx4.cls
+document/emulateapj.cls
+document/yahapj.bst
+document/setup.tex
+document/old/
+document/final/
+
 .ipynb_checkpoints
 # Byte-compiled / optimized / DLL files
 __pycache__/
